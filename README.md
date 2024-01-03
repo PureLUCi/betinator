@@ -1,0 +1,6 @@
+# Betinator 🥵
+
+## Bookies available:
+
+- Meridian
+
